@@ -1,1 +1,11 @@
 # Website-Performance-Analysis
+- Analyzed website data to understand user traffic and behavior
+- Cleaned and processed raw data using Python and Pandas
+- Tracked key metrics like users, sessions, and engagement rate
+- Compared performance across different marketing channels
+- Identified which channels bring more users and engagement
+- Analyzed hourly traffic to find peak usage time
+- Studied engaged vs non-engaged sessions to improve performance
+- Created visualizations using Matplotlib and Seaborn for better insights
+- Found trends between sessions and engagement over time
+- Helped in improving website performance using data-driven insights
